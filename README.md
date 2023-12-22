@@ -20,7 +20,7 @@ All this without having to surrender JavaScript readability once transferred in 
 In VSCode, open a new Terminal Window.
 Type : `node SimplyTranspile.js`
 
-The program will then monitor a web/ts folder structure and will mirror (every 2 seconds) all updated `.TS` files into a web/js folder .
+The program will then monitor a web/ts folder structure and will mirror (every 2 seconds) all updated `.TS` (and `.JS`) files into a web/js folder .
 
 ![](folder_struct.png)
 
